@@ -16,6 +16,8 @@ h1 {
   background: aliceblue;
   color: #333333;
   padding: 7px;
+  border: 1px solid black;
+  margin: -50px 10px 10px 10px;
 }
 .main {
   background-color: #660066;
