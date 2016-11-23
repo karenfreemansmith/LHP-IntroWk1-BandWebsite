@@ -11,7 +11,7 @@ HTML, CSS, Git, Github
 [Learn How to Program](http://learnhowtoprogram.com) Intro to Programming Week 1 Independent Project: Create a band website to practice CSS box model and floats (without Bootstrap). This band was borrowed from Stephen King's, 'The Stand'.
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk1-BlogDesign)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk1-BandWebsite)
 
  __OR__
 * Clone project to your computer
